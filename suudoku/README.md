@@ -1,5 +1,6 @@
 - suudoku_to_csp.py
     - in.txtに数独の盤面を入力すると、suudoku-9-9.cspに制約の式を書き込んでくれるスクリプト
+    - 0は空きマスを表し、半角スペースを空けて盤面を入力する
 - suudoku_solver.py
     - sugarとは全く関係なく、再帰で数独を解くだけのスクリプト
 - suudoku_output.py
