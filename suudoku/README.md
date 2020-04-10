@@ -1,0 +1,6 @@
+- suudoku_to_csp.py
+    - in.txtに数独の盤面を入力すると、suudoku-9-9.cspに制約の式を書き込んでくれるスクリプト
+- suudoku_solver.py
+    - sugarとは全く関係なく、再帰で数独を解くだけのスクリプト
+- suudoku_output.py
+    - sugarの出力を見やすく整形してテキストファイルに出力してくれるスクリプト
